@@ -151,9 +151,9 @@ This project is licensed under the **MIT License** – free for personal and com
 
 Want to collaborate or have questions?
 
-* 🔗 [LinkedIn – Amit Kharche](https://www.linkedin.com/in/amitkharche)
-* 💻 [GitHub – @amitkharche](https://github.com/amitkharche)
-* 📝 [Medium – @amitkharche14](https://medium.com/@amitkharche)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/amitkharche)
+* 💻 [GitHub](https://github.com/amitkharche)
+* 📝 [Medium](https://medium.com/@amitkharche)
 
 ---
 
